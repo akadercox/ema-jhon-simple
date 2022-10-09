@@ -1,26 +1,33 @@
-.product{
+.product {
     width: 300px;
     height: 500px;
     border: 1px solid #95A0A7;
     border-radius: 8px;
-    
+
 }
-.product-info{
+
+.product-info {
     padding-left: 10px;
     margin-top: 8px;
 }
-.product img{
+
+.product img {
     width: 300px;
     height: 266px;
     border-radius: 7px;
-    
+
 }
-.btn{
+
+.btn {
     background-color: #FFE0B3;
     width: 300px;
     height: 53px;
     border: none;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
-    
+
+}
+
+.btn:hover {
+    background-color: rgb(196, 222, 223);
 }
